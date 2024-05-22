@@ -148,6 +148,8 @@ If there are issues adding via git remote add you can add an existing repository
 
 We can now see our published Repo on github.com
 
+## Clone a repository
+
 Now let's clone a repository.  There are several ways to achieve this but most commonly will be from the command line.
 
 ```
