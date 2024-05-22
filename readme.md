@@ -131,7 +131,9 @@ git log
 
 ## Publish a repository to GitHub.com
 
-No we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
+**This requires authorizing with GitHub.  Use GitHub Desktop**
+
+Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
 ```
 git remote add origin https://github.com/j-demayo/folder.git
 ```
@@ -153,5 +155,5 @@ We can now see our published Repo on github.com
 Now let's clone a repository.  There are several ways to achieve this but most commonly will be from the command line.
 
 ```
-
+git clone https://github.com/CWML/gitdemo
 ```
