@@ -144,4 +144,9 @@ Now we can push our local .git repository to our remote repository.
 git push -u origin main
 ```
 
-If there are issues adding via git remote add you can add an existing repository via GitHub Desktop and then push that repo to GitHub.com
+If there are issues adding via git remote add you can add an existing repository via GitHub Desktop and then publish that repo to GitHub.com
+
+We can now see our published Repo on github.com
+
+Now let's clone a repository
+
