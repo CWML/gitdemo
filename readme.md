@@ -158,7 +158,7 @@ Now let's clone a repository.  There are several ways to achieve this but most c
 git clone https://github.com/CWML/gitdemo
 ```
 
-We can also clone via GitHub desktop.
+We can also clone via GitHub desktop.  Let's clone the repo for the following project:
 
 **GitHub Pages application:**
 https://miku.github.io/activememory/
