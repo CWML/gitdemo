@@ -152,8 +152,16 @@ We can now see our published Repo on github.com
 
 ## Clone a repository
 
-Now let's clone a repository.  There are several ways to achieve this but most commonly will be from the command line.
+Now let's clone a repository.  There are several ways to achieve this but most commonly will be from the command line.  If a repository is not public you will need to authenticate with GitHub.com and have access before you can clone it.
 
 ```
 git clone https://github.com/CWML/gitdemo
 ```
+
+We can also clone via GitHub desktop.
+
+**GitHub Pages application:**
+https://miku.github.io/activememory/
+
+**GitHub Repo:**
+https://github.com/miku/activememory
