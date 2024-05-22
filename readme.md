@@ -146,13 +146,13 @@ Now we can push our local .git repository to our remote repository.
 git push -u origin main
 ```
 
-If there are issues adding via git remote add you can add an existing repository via GitHub Desktop and then publish that repo to GitHub.com
+If there are issues adding via git remote add(due to authorization) you can add an existing repository via GitHub Desktop and then publish that repo to GitHub.com
 
 We can now see our published Repo on github.com
 
 ## Clone a repository
 
-Now let's clone a repository.  There are several ways to achieve this but most commonly will be from the command line.  If a repository is not public you will need to authenticate with GitHub.com and have access before you can clone it.
+Next we'll clone a repository.  There are several ways to achieve this but most commonly will be from the command line.  If a repository is not public you will need to authenticate with GitHub.com and have access before you can clone it.
 
 ```
 git clone https://github.com/CWML/gitdemo
