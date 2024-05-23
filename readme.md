@@ -99,9 +99,17 @@ git status
 Adding files to track is great, but what if we don't want to track a file?  We can create a **.gitignore** file that lists files git will ignore.  We'll do that now as well as add the file we want to ignore:
 ```
 touch stars.txt
+touch 1.o 2.o 3.o
+mkdir logs
 nano .gitignore
 ```
-Add stars.txt to .gitignore
+Add the following to to .gitignore:
+```
+stars.txt
+*.o
+logs/
+```
+
 Now let's check check our directory and git status:
 ```
 ls -a
