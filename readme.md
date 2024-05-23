@@ -131,11 +131,11 @@ git log
 
 ## Publish a repository to GitHub.com
 
-**This requires authorizing with GitHub.  Use GitHub Desktop**
+**This requires authorizing with GitHub.  Use GitHub Desktop if you haven't authorized with GH before**
 
 Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
 ```
-git remote add origin https://github.com/j-demayo/folder.git
+git remote add origin https://github.com/j-demayo/yourrepohere.git
 ```
 We confirm we're on the right branch:
 ```
