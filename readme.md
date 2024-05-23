@@ -135,7 +135,7 @@ git log
 
 Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
 ```
-git remote add origin https://github.com/j-demayo/yourrepohere.git
+git remote add origin https://github.com/username/yourrepohere.git
 ```
 We confirm we're on the right branch:
 ```
