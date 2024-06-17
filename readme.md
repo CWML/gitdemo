@@ -1,5 +1,8 @@
 # **Git Fundamentals**
 
+Please visit the [Links](https://github.com/CWML/gitdemo/blob/main/links.md) page for Yale and other resources!
+
+
 ## Creating a Repository
 
 First let's change directory or cd to our desktop and then create our working directory:
