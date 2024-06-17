@@ -141,6 +141,34 @@ git log
 
 **This requires authorizing with GitHub.  Use GitHub Desktop if you haven't authorized with GH before**
 
+In order to push our repository to github.com we need to authenticate with our account via SSH.
+
+'''
+ssh-keygen -t ed25519 -C "your_email@example.com"
+'''
+If you are using a legacy system that doesn't support the Ed25519 algorithm, you can use:
+'''
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+'''
+
+When prompted to "Enter a file in which to save the key," press Enter to accept the default file location.
+
+Next, you'll be prompted to enter a passphrase. This is optional but recommended for added security. You can press Enter to skip creating a passphrase.
+
+Run the following command to start the SSH agent:
+
+'''
+eval "$(ssh-agent -s)"
+'''
+
+Add your SSH Private key to the SSH agent:
+
+'''
+ssh-add ~/.ssh/id_ed25519
+'''
+
+
+
 Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
 ```
 git remote add origin https://github.com/username/yourrepohere.git
@@ -157,6 +185,10 @@ git push -u origin main
 If there are issues adding via git remote add(due to authorization) you can add an existing repository via GitHub Desktop and then publish that repo to GitHub.com
 
 We can now see our published Repo on github.com
+
+## Workflow type
+remote first?
+repo first?
 
 ## Clone a repository
 
