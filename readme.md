@@ -139,7 +139,7 @@ git log
 
 ## Publish a repository to GitHub.com
 
-**This requires authorizing with GitHub.  Use GitHub Desktop if you haven't authorized with GH before**
+**This requires authorizing with GitHub.**
 
 In order to push our repository to github.com we need to authenticate with our account via SSH.
 
@@ -167,7 +167,29 @@ Add your SSH Private key to the SSH agent:
 ssh-add ~/.ssh/id_ed25519
 ```
 
+Now we need to add the key to our GitHub account, but first we must copy our public key using pbcopy.
 
+Run the following command to copy the key to your clipboard:
+```
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+How to add to github account.
+
+1. Go to GitHub and log in to your account.
+2. In the upper-right corner, click on your profile photo, then click 
+3. Settings.
+4. In the left sidebar, click SSH and GPG keys.
+5. Click New SSH key or Add SSH key.
+6. In the "Title" field, add a descriptive label for the new key.
+7. Paste your key into the "Key" field.
+8. Click Add SSH key.
+9. If prompted, confirm your GitHub password.
+
+Run the following command to test your connection:
+```
+ssh -T git@github.com
+```
 
 Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
 ```
