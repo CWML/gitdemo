@@ -1,8 +1,5 @@
 # **Git Fundamentals**
 
-Please visit the [Links](https://github.com/CWML/gitdemo/blob/main/links.md) page for Yale and other resources!
-
-
 ## Creating a Repository
 
 First let's change directory or cd to our desktop and then create our working directory:
@@ -146,13 +143,13 @@ git log
 
 In order to push our repository to github.com we need to authenticate with our account via SSH.
 
-'''
+```
 ssh-keygen -t ed25519 -C "your_email@example.com"
-'''
+```
 If you are using a legacy system that doesn't support the Ed25519 algorithm, you can use:
-'''
+```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-'''
+```
 
 When prompted to "Enter a file in which to save the key," press Enter to accept the default file location.
 
@@ -160,15 +157,15 @@ Next, you'll be prompted to enter a passphrase. This is optional but recommended
 
 Run the following command to start the SSH agent:
 
-'''
+```
 eval "$(ssh-agent -s)"
-'''
+```
 
 Add your SSH Private key to the SSH agent:
 
-'''
+```
 ssh-add ~/.ssh/id_ed25519
-'''
+```
 
 
 
