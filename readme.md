@@ -143,6 +143,8 @@ git log
 
 In order to push our repository to github.com we need to authenticate with our account via SSH.
 
+In your terminal, run the following command to generate an ssh key to use with GitHub.com.
+
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
