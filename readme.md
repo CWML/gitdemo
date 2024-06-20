@@ -233,8 +233,7 @@ If there are issues adding via git remote add(due to authorization) you can add 
 We can now see our published Repo on github.com
 
 ## Workflow type
-remote first?
-repo first?
+Remote first or local repo first?
 
 ## Clone a repository
 
@@ -255,5 +254,3 @@ https://github.com/miku/activememory
 **GitHub Desktop overview**
 
 **Git Merge/Pull Request**
-more content here
-more contet
