@@ -180,9 +180,7 @@ Run the following command to copy the key to your clipboard:
 pbcopy < ~/.ssh/id_ed25519.pub
 ```
 **For Windows:**
-Open Command Prompt or PowerShell:
-
-Press Windows + R, type cmd or powershell, and press Enter.
+In Git Bash:
 
 Type the following command and press Enter:
 ```
@@ -192,10 +190,19 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 Follow prompts, press enter to save at default location. 
 Press enter for an optional passphrase.
 
+Start the SSH agent by running the following command:
+```
+eval "$(ssh-agent -s)"
+```
+Add your SSH private key to the SSH agent with this command:
+```
+ssh-add ~/.ssh/id_rsa
+```
+
 Copy the contents of your public key to the clipobard.
 
 ```
-clip < ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub | clip
 ```
 
 How to add to github account.
