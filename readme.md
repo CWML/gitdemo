@@ -74,6 +74,20 @@ and then check that the right thing happened:
 ```
 git status
 ```
+Git now knows that it’s supposed to keep track of our selected file, but it hasn’t recorded these changes as a commit yet. To get it to do that, we need to run one more command:
+```
+git commit -m "Start notes on mars in mars.txt"
+```
+When we run **git commit**, Git takes everything we have told it to save by using git add and stores a copy permanently inside the .git directory. 
+This permanent copy is called a commit (or revision) and its short identifier is listed in the brackets []. 
+
+We use the **-m** flag (for “message”) to record a short, descriptive, and specific comment that will help us remember later on what we did and why. If we just run **git commit** without the **-m** option, Git will launch nano (or whatever other editor we configured as core.editor) so that we can write a longer message.
+
+Let's check our **git status** again:
+```
+git status
+```
+
 You can also add multiple files at one time.  First we will create a new folder:
 ```
 mkdir moons
@@ -96,6 +110,7 @@ What does the status show now?
 ```
 git status
 ```
+
 Adding files to track is great, but what if we don't want to track a file?  We can create a **.gitignore** file that lists files git will ignore.  We'll do that now as well as add the file we want to ignore:
 ```
 touch stars.txt
@@ -103,14 +118,14 @@ touch 1.o 2.o 3.o
 mkdir logs
 nano .gitignore
 ```
-Add the following to to .gitignore:
+Add the following to to **.gitignore**:
 ```
 stars.txt
 *.o
 logs/
 ```
 
-Now let's check check our directory and git status:
+Now let's check check our directory and **git status**:
 ```
 ls -a
 git status
@@ -118,14 +133,10 @@ git add .
 git status
 ```
 
-Git now knows that it’s supposed to keep track of our selected files, but it hasn’t recorded these changes as a commit yet. To get it to do that, we need to run one more command:
+Now that we have more files tracked or not tracked, we'll need to commit those changes:
 ```
-git commit -m "Start notes on Mars and create the moons directory"
+git commit -m "Update mars.txt and add moons directory. .gitignore updated"
 ```
-When we run **git commit**, Git takes everything we have told it to save by using git add and stores a copy permanently inside the .git directory. 
-This permanent copy is called a commit (or revision) and its short identifier is listed in the brackets []. 
-
-We use the **-m** flag (for “message”) to record a short, descriptive, and specific comment that will help us remember later on what we did and why. If we just run **git commit** without the **-m** option, Git will launch nano (or whatever other editor we configured as core.editor) so that we can write a longer message.
 
 If we run **git status** now:
 ```
