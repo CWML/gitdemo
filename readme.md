@@ -272,7 +272,3 @@ https://github.com/miku/activememory
 **GitHub Desktop overview**
 
 **Git Merge/Pull Request**
-
-Testing pull request
-
-change
