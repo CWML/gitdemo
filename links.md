@@ -10,7 +10,7 @@ https://research.computing.yale.edu/training/version-control-git<br>
 https://yale-redcap.github.io/developers-handbook/orientation/git-intro/<br>
 **Distributed Workflows from Pro Git (Version 2) https://github.com/progit/progit2**<br>
 https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows<br>
-**How to contribute to open source**<br>
-https://open-source-for-researchers.github.io/open-source-workshop/<br>
 **git Large File Storage**<br>
 https://git-lfs.com/<br>
+**git.yale.edu**
+[Yale GitHub Enterprise Service Page](https://yale.service-now.com/it?id=service_offering&sys_id=bc29b84997f88a506f0430671153af28&table=u_service_offering_index)
