@@ -13,5 +13,5 @@ https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows<br>
 **git Large File Storage**<br>
 https://git-lfs.com/<br>
 **git.yale.edu**<br>
-Data Classification : Moderate
+Data Classification : Moderate<br>
 [Yale GitHub Enterprise Service Page](https://yale.service-now.com/it?id=service_offering&sys_id=bc29b84997f88a506f0430671153af28&table=u_service_offering_index)
