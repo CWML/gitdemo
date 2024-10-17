@@ -273,6 +273,3 @@ https://github.com/miku/activememory
 
 **Git Merge/Pull Request**
 
-new test
-
-test again
