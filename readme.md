@@ -269,7 +269,6 @@ https://miku.github.io/activememory/
 **GitHub Repo:**
 https://github.com/miku/activememory
 
-**GitHub Desktop overview**
+**GitHub Desktop/Website overview**
 
-**Git Merge/Pull Request**
 
