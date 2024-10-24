@@ -25,7 +25,7 @@ You can just click (several pages) through this installer to accept all of the d
  
 Mac only:
 X-Code Developer tools
-1.                  Open the Terminal application, which you can find in your Applications > Utilities folder or by searching with Spotlight.
+Open the Terminal application, which you can find in your Applications > Utilities folder or by searching with Spotlight.
 Type the following command and press Enter:
 xcode-select --install
 Follow the on-screen instructions to install the Command Line Tools.
