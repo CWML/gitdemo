@@ -28,7 +28,7 @@ X-Code Developer tools<br>
 Open the Terminal application, which you can find in your Applications > Utilities folder or by searching with Spotlight.<br>
 Type the following command and press Enter:<br>
 ```
-xcode-select --install<br>
+xcode-select --install
 ```
 Follow the on-screen instructions to install the Command Line Tools.<br>
 This can also be installed via the app store via the 'Xcode' app.
