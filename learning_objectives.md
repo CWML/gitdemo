@@ -9,25 +9,25 @@ You will learn:
  
 Required software/accounts:
  
-github.com account:
+github.com account:<br>
 https://github.com/signup
  
 If you are bringing your own laptop, you will need to install the following:
  
-GitHub Desktop:
+GitHub Desktop:<br>
   https://desktop.github.com/
  
-Windows only:
-Git bash is required and installed via Git below
-Git installer 64 bit direct link:
-https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe
+Windows only:<br>
+Git bash is required and installed via Git below<br>
+Git installer 64 bit direct link:<br>
+https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe<br>
 You can just click (several pages) through this installer to accept all of the defaults. 
  
 Mac only:
-X-Code Developer tools
-Open the Terminal application, which you can find in your Applications > Utilities folder or by searching with Spotlight.
-Type the following command and press Enter:
-xcode-select --install
-Follow the on-screen instructions to install the Command Line Tools.
+X-Code Developer tools<br>
+Open the Terminal application, which you can find in your Applications > Utilities folder or by searching with Spotlight.<br>
+Type the following command and press Enter:<br>
+xcode-select --install<br>
+Follow the on-screen instructions to install the Command Line Tools.<br>
 This can also be installed via the app store via the 'Xcode' app.
 
