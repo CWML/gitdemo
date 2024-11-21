@@ -4,7 +4,7 @@ In this repository you will find all workshop materials.
 
 - [Slide Deck](https://github.com/CWML/gitdemo/blob/main/Git%20%26%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
 - [Learning Objectives](#Learning-Objectives)
-- [Required Software/Accounts](#Required-software/accounts)
+- [Required Software](#Required-software)
 - [Git Fundamentals](#Git-Fundamentals) hands on section.
 - [Further Learning & Yale Links](#Further-Learning-&-Yale-Links)
 
@@ -19,7 +19,7 @@ In this repository you will find all workshop materials.
 - Overview of GitHub.com & GitHub desktop 
 - What git clone is and how to clone a remote repository in the terminal & desktop application 
  
-# **Required software/accounts**
+# **Required software**
  
 github.com account:<br>
 https://github.com/signup
