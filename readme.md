@@ -149,13 +149,18 @@ You can also add multiple files at one time.  First we will create a new folder:
 ```
 mkdir moons
 ```
-Git's design philosophy is to track content (files) rather than empty directories. This ensures that the repository remains lightweight and efficient, only tracking actual data changes
+Git's design philosophy is to track content (files) rather than empty directories. This ensures that the repository remains lightweight and efficient, only tracking actual data changes.
+
+If we check the **git status** now we will see no change with the creation of the moons directory.
+```
+git status
+```
 
 Here we'll use the **touch** command to create 2 files inside of the moons directory:
 ```
 touch moons/phobos.txt moons/deimos.txt 
 ```
-Let's see check out status:
+Now let's see what our status is:
 ```
 git status
 ```
