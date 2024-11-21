@@ -1,4 +1,5 @@
 # **Git Fundamentals**
+This readme file is the hands on portion of the class!
 
 ## Creating a Repository
 
