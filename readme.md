@@ -53,6 +53,10 @@ This can also be installed via the app store via the 'Xcode' app.
 
 # **Git Fundamentals**
 
+In GitHub workflows, a **local-first approach** involves making changes and commits on your local machine, then pushing them to the remote repository on GitHub. This allows you to test and refine changes locally before sharing them. In contrast, a **remote-first approach** focuses on making changes directly in the GitHub repository, such as editing files via the GitHub web interface, which is faster for minor updates but less suitable for complex changes requiring local testing or version control management.
+
+We will be using the **local-first approach**.
+
 ## Creating a Repository
 
 First let's change directory or cd to our desktop and then create our working directory:
