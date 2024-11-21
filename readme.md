@@ -45,6 +45,7 @@ This can also be installed via the app store via the 'Xcode' app.
 
 
 # **Git Fundamentals**
+This readme file is the hands on portion of the class!
 
 ## Creating a Repository
 
