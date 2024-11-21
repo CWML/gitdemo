@@ -2,7 +2,7 @@
 In this repository you will find all workshop materials.
 
 
-- [Slide Deck](https://github.com/CWML/gitdemo/blob/main/Git%20%26%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
+- [Slide Deck](https://github.com/CWML/gitdemo/raw/refs/heads/main/Git%20&%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
 - [Learning Objectives](#Learning-Objectives)
 - [Required Software](#Required-software)
 - [Git Fundamentals](#Git-Fundamentals) hands on section.
