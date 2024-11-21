@@ -19,7 +19,7 @@ In this repository you will find all workshop materials.
 - Overview of GitHub.com & GitHub desktop 
 - What git clone is and how to clone a remote repository in the terminal & desktop application 
  
-# **Required software/accounts:**
+# **Required software/accounts**
  
 github.com account:<br>
 https://github.com/signup
