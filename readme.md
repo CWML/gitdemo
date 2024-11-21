@@ -7,7 +7,7 @@ Powerpoint file is included and the hands on portion of the class is located bel
 
 
 **Learning Objectives**
-You will learn: 
+You will learn: <br>
 - Benefits & basics of a Version Control System 
 - Differences between git and GitHub 
 - About remote repositories and why they are useful 
