@@ -9,7 +9,7 @@ In this repository you will find all workshop materials.
 - [Further Learning & Yale Links](#Further-Learning-&-Yale-Links)
 
 
-**Learning Objectives**
+# **Learning Objectives**
 
 - Benefits & basics of a Version Control System 
 - Differences between git and GitHub 
@@ -19,7 +19,7 @@ In this repository you will find all workshop materials.
 - Overview of GitHub.com & GitHub desktop 
 - What git clone is and how to clone a remote repository in the terminal & desktop application 
  
-**Required software/accounts:**
+# **Required software/accounts:**
  
 github.com account:<br>
 https://github.com/signup
@@ -324,7 +324,7 @@ https://github.com/miku/activememory
 **GitHub Desktop/Website overview**
 Covered in class.
 
-## **Further Learning & Yale Links**
+# **Further Learning & Yale Links**
 **GitHub Documentation**<br>
 https://try.github.io/<br>
 **GitHub Cheat Sheet**<br>
