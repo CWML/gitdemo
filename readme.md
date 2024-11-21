@@ -1,13 +1,10 @@
 # **Git & GitHub: An Introduction to Version Control**
 In this repository you will find all workshop materials.
-Powerpoint file is included and the hands on portion of the class is located below in the [Git Fundamentals](#Git-Fundamentals)
-
-
-
+Powerpoint file is included and the hands on portion of the class is located below in the [Git Fundamentals](#Git-Fundamentals) section.
 
 
 **Learning Objectives**
-You will learn: <br>
+
 - Benefits & basics of a Version Control System 
 - Differences between git and GitHub 
 - About remote repositories and why they are useful 
