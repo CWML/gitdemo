@@ -1,6 +1,12 @@
 # **Git & GitHub: An Introduction to Version Control**
 In this repository you will find all workshop materials.
-Powerpoint file is included and the hands on portion of the class is located below in the [Git Fundamentals](#Git-Fundamentals) section.
+
+
+- [Slide Deck](https://github.com/CWML/gitdemo/blob/main/Git%20%26%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
+- [Learning Objectives](#Learning-Objectives)
+- [Required Software/Accounts](#Required-software/accounts)
+- [Git Fundamentals](#Git-Fundamentals) hands on section.
+- [Further Learning & Yale Links](#Further-Learning-&-Yale-Links)
 
 
 **Learning Objectives**
@@ -318,6 +324,7 @@ https://github.com/miku/activememory
 **GitHub Desktop/Website overview**
 Covered in class.
 
+## **Further Learning & Yale Links**
 **GitHub Documentation**<br>
 https://try.github.io/<br>
 **GitHub Cheat Sheet**<br>
