@@ -6,7 +6,7 @@ In this repository you will find all workshop materials.
 - [Learning Objectives](#Learning-Objectives)
 - [Required Software](#Required-software)
 - [Git Fundamentals](#Git-Fundamentals) hands on section.
-- [Further Learning & Yale Links](#Further-Learning-&-Yale-Links)
+- [Further Learning & Yale Links](#Further-Learning-and-Yale-Links)
 
 
 # **Learning Objectives**
@@ -324,7 +324,8 @@ https://github.com/miku/activememory
 **GitHub Desktop/Website overview**
 Covered in class.
 
-# **Further Learning & Yale Links**
+# **Further Learning and Yale Links**
+
 **GitHub Documentation**<br>
 https://try.github.io/<br>
 **GitHub Cheat Sheet**<br>
