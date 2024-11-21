@@ -151,7 +151,7 @@ mkdir moons
 ```
 Git's design philosophy is to track content (files) rather than empty directories. This ensures that the repository remains lightweight and efficient, only tracking actual data changes.
 
-If we check the **git status** now we will see no change with the creation of the moons directory.
+If we check the **git status** now we will see no change with the creation of the moons directory:
 ```
 git status
 ```
