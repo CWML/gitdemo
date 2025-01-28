@@ -408,9 +408,6 @@ If there are issues adding via git remote add(due to authorization) you can add 
 
 We can now see our published Repo on github.com
 
-## Workflow type
-Remote first or local repo first?
-
 ## Clone a repository
 
 Next we'll clone a repository.  There are several ways to achieve this but most commonly will be from the command line.  If a repository is not public you will need to authenticate with GitHub.com and have access before you can clone it.
