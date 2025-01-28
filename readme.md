@@ -5,7 +5,7 @@ In this repository you will find all workshop materials.
 - [Slide Deck](https://github.com/CWML/gitdemo/raw/refs/heads/main/Git%20&%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
 - [Learning Objectives](#Learning-Objectives)
 - [Required Software](#Required-software)
-- [Local vs Remote Repositories](#Local vs Remote Repositories in Git)
+- [Local vs Remote Repositories](#Local-vs-Remote-Repositories-in-Git)
 - [Git Fundamentals](#Git-Fundamentals) hands on section.
 - [Further Learning & Yale Links](#Further-Learning-and-Yale-Links)
 
@@ -46,7 +46,7 @@ xcode-select --install
 Follow the on-screen instructions to install the Command Line Tools.<br>
 This can also be installed via the app store via the 'Xcode' app.
 
-##  Local vs Remote Repositories in Git
+#  Local vs Remote Repositories in Git
 
 When you start working with Git, one of the most fundamental concepts to grasp is the relationship between local and remote repositories. Let's explore these concepts in detail to build a strong foundation for your Git journey.
 
