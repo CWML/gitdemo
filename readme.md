@@ -5,6 +5,7 @@ In this repository you will find all workshop materials.
 - [Slide Deck](https://github.com/CWML/gitdemo/raw/refs/heads/main/Git%20&%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
 - [Learning Objectives](#Learning-Objectives)
 - [Required Software](#Required-software)
+- [Local vs Remote Repositories](#Local vs Remote Repositories in Git)
 - [Git Fundamentals](#Git-Fundamentals) hands on section.
 - [Further Learning & Yale Links](#Further-Learning-and-Yale-Links)
 
