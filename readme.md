@@ -437,6 +437,7 @@ https://miku.github.io/activememory/
 https://github.com/miku/activememory
 
 **GitHub Desktop/Website overview**
+<br>
 Covered in class.
 
 # **Further Learning and Yale Links**
