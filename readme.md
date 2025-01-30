@@ -156,7 +156,7 @@ We will be using the **local-first approach**.
 
 ## Creating a Repository
 
-First let's change directory or cd to our desktop and then create our working directory:
+First let's open a terminal window or gitbash if you're on windows.  Now that you're in the terminal, we'll change directory or cd to our desktop and then create our working directory:
 
 ```
 cd ~/Desktop
