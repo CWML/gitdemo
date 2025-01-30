@@ -392,9 +392,22 @@ Run the following command to test your connection:
 ssh -T git@github.com
 ```
 
-Now we'll push our repository to github.com.  First we need to create the repository on github.com and then we run the following command(use your repository command):
+Now we'll push our repository to github.com.  
+
+First we need to create the repository on github.com  
+
+1. Go to [GitHub](https://github.com) and log in.
+2. Click on your profile picture in the top-right corner and select **Your repositories**.
+3. Click the green **New** button.
+4. Enter a **Repository name**.
+5. **Do not** check the box for **Add a README file**.
+6. Select **Private** under **Repository visibility**.
+7. Click the green **Create repository** button.
+
+
+Then we run the following command(use your repository command):
 ```
-git remote add origin https://github.com/username/yourrepohere.git
+git remote add origin https://github.com/username/<yourrepohere>.git
 ```
 We confirm we're on the right branch:
 ```
