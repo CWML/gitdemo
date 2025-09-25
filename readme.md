@@ -450,10 +450,14 @@ https://training.github.com/downloads/github-git-cheat-sheet.pdf<br>
 https://swcarpentry.github.io/git-novice/<br>
 **Yale Research Computing Git Workshop Video Recording**<br>
 https://research.computing.yale.edu/training/version-control-git<br>
+**Learning Git and GitHub** LinkedIn Learning course<br>
+https://www.linkedin.com/learning/learning-git-and-github-23011330/<br>
 **REDCap@Yale's Developer Handbook git Intro**<br>
 https://yale-redcap.github.io/developers-handbook/orientation/git-intro/<br>
 **Distributed Workflows from Pro Git (Version 2) https://github.com/progit/progit2**<br>
 https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows<br>
+**Git Intermediate Techniques** LinkedIn Learning Course<br>
+https://www.linkedin.com/learning/git-intermediate-techniques-16077011/get-more-from-git<br>
 **git Large File Storage**<br>
 https://git-lfs.com/<br>
 **git.yale.edu**<br>
