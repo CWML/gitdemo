@@ -1,6 +1,7 @@
 # **Git & GitHub: An Introduction to Version Control**
 In this repository you will find all workshop materials.
 
+ps://github.com/CWML/gitdemo
 
 - [Slide Deck](https://github.com/CWML/gitdemo/raw/refs/heads/main/Git%20&%20Github_%20An%20Introduction%20to%20Version%20Control.pptx)
 - [Learning Objectives](#Learning-Objectives)
